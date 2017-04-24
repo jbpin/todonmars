@@ -1,0 +1,9 @@
+#logger {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 250px;
+  background-color: #333;
+  color: #fff;
+}
